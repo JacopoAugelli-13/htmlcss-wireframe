@@ -1,0 +1,63 @@
+hr{
+    height: 3px;
+    background-color: black;
+    border: none;
+}
+
+body{
+    width: 512px;
+}
+
+.pianoforte {
+    display: block;
+    border: 3px solid black;
+    margin: 1rem;
+    margin-inline-start: 15px;
+    margin-inline-end: 15px;
+    border-color: black;
+    padding: 0 20px;
+    padding-bottom: 15px;
+    overflow: hidden;
+}
+
+.Violino {
+    display: block;
+    border: 3px solid black;
+    margin: 1rem;
+    margin-inline-start: 15px;
+    margin-inline-end: 15px;
+    padding: 0 20px;
+    padding-bottom: 15px;
+}
+
+.Violoncello {
+    display: block;
+    border: 3px solid black;
+    margin: 1rem;
+    margin-inline-start: 15px;
+    margin-inline-end: 15px;
+    padding: 0 20px;
+    padding-bottom: 15px;
+}
+
+.Oboe {
+    display: block;
+    border: 3px solid black;
+    margin: 1rem;
+    margin-inline-start: 15px;
+    margin-inline-end: 15px;
+    padding: 0 20px;
+    padding-bottom: 15px;
+}
+
+p{
+    margin-block-start: 0;
+}
+
+h2 {
+    margin-block-end: 0;
+}
+
+header {
+margin: 10px 15px;
+}
